@@ -3,5 +3,5 @@ Quadro_project
 
 Projekt Quadrocopter
 
-Wersja 1.0
+Wersja 0.1 Alpha
 
